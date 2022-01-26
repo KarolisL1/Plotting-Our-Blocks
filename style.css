@@ -8,13 +8,13 @@
     height: 150px;
     width: 965px;
     background-color: green;
-    margin: 10px 10px 20px 10px;
+    margin: 10px 10px 20px;
 }
 .side-nav {
     height: 300px;
     width: 200px;
     background-color: blue;
-    margin: 0 10px 0 10px;
+    margin: 0 10px;
     display: inline-block;
     vertical-align: top;
 }
@@ -23,7 +23,7 @@
     width: 700px;
     background-color: red;
     margin-left: 25px;
-    padding: 5px 20px 5px 5px;
+    padding: 5px 20px 5px;
     display: inline-block;
     vertical-align: top;
 }
